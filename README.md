@@ -1,7 +1,7 @@
 # LinkLytics
 URL Shortner Project- Enhance usability with unique short URLs
 
-***BackEnd**
+**BackEnd :-**
 
 Spring Boot, Security, Data JPA
 
@@ -9,7 +9,7 @@ PostgresSQL
 
 JWT(JSON Web Tokens)
 
-**FrontEnd**
+**FrontEnd :-**
 
 React
 
