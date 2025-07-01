@@ -3,19 +3,19 @@ URL Shortner Project- Enhance usability with unique short URLs
 
 **BackEnd :-**
 
-Spring Boot, Security, Data JPA
+  Spring Boot, Security, Data JPA
 
-PostgresSQL
+  PostgresSQL
 
-JWT(JSON Web Tokens)
+  JWT(JSON Web Tokens)
 
 **FrontEnd :-**
 
-React
+  React
 
-UI/UX Enhancement- material UI
+  UI/UX Enhancement- material UI
 
-char.js , react icons
+  char.js , react icons
 
 **Flow of Application**
 
