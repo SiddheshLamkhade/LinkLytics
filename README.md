@@ -14,3 +14,7 @@
 
 **Models in Database**
 <img width="799" height="541" alt="image" src="https://github.com/user-attachments/assets/658f21e6-d55e-4855-be18-f4a8270bed94" />
+
+
+**Authentication in Application**
+<img width="1649" height="977" alt="image" src="https://github.com/user-attachments/assets/32dff511-6e6d-4cc4-81d4-6578038f9550" />
