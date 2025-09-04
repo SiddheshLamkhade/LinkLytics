@@ -11,3 +11,6 @@
 8. API Gateway is set up
 9. Done with Rabbit MQ (Asynchronous Communication)
 10. Containerization of microservices is done
+
+**Models in Database**
+<img width="799" height="541" alt="image" src="https://github.com/user-attachments/assets/658f21e6-d55e-4855-be18-f4a8270bed94" />
