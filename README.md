@@ -18,3 +18,7 @@
 
 **Authentication in Application**
 <img width="1649" height="977" alt="image" src="https://github.com/user-attachments/assets/32dff511-6e6d-4cc4-81d4-6578038f9550" />
+
+
+<img width="1756" height="1019" alt="image" src="https://github.com/user-attachments/assets/8f9fa42f-04ce-45d5-b582-27bf055a072e" />
+
